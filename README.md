@@ -1,1 +1,1 @@
-MATLAB script used to analyze fiber photometry recording data.
+MATLAB script used to analyze the fiber photometry recording data.
